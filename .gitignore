@@ -12,3 +12,6 @@
 src/client/move.client.lua
 
 docs/site
+node_modules
+
+out
